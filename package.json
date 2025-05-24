@@ -1,0 +1,16 @@
+{
+  "name": "navneet-aur-backend",
+  "version": "1.0.0",
+  "description": "create first project through chai aur backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai",
+    "javascript",
+    "backend"
+  ],
+  "author": "Navneet Patel",
+  "license": "ISC"
+}
